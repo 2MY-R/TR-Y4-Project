@@ -5,7 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/../ImageRepo/.idea/ImageRepo.iml" filepath="$PROJECT_DIR$/../ImageRepo/.idea/ImageRepo.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Lab Book/.idea/Lab Book.iml" filepath="$PROJECT_DIR$/../Lab Book/.idea/Lab Book.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Lab Book/Lab Book Images/.idea/Lab Book Images.iml" filepath="$PROJECT_DIR$/../Lab Book/Lab Book Images/.idea/Lab Book Images.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Models/.idea/Models.iml" filepath="$PROJECT_DIR$/../Models/.idea/Models.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Research.iml" filepath="$PROJECT_DIR$/.idea/Research.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SavedSegs/.idea/SavedSegs.iml" filepath="$PROJECT_DIR$/SavedSegs/.idea/SavedSegs.iml" />
     </modules>
   </component>
 </project>
