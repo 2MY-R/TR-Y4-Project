@@ -79,3 +79,12 @@ Model_v2/last_checkpoint
 Model_v2/metrics.json
 Model_v2/model_final.pth
 Image_repo/t_1_MMStack_Default_6.ome.tif
+Model_v3
+Phase_masks_Tiff
+Phase_masks_Tiff\amoeba
+Tiff_train/Labels/labels_tiff-model_2025-03-05-11-28-36.json
+Tiff_train/label_imgs/Label_im_1.png
+Tiff_train/label_imgs/Label_im_2.png
+Tiff_train/label_imgs/label_im_3.png
+Tiff_train/test_Im/test_im_1.png
+Tiff_train/test_Im/test_output.png
