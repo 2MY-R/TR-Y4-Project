@@ -16,5 +16,6 @@
     <orderEntry type="module" module-name="ImageRepo" />
     <orderEntry type="module" module-name="Models" />
     <orderEntry type="module" module-name="SavedSegs" />
+    <orderEntry type="module" module-name="LSTM_Prac" />
   </component>
 </module>
